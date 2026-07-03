@@ -1,0 +1,5 @@
+print("Welcome to AI Smart Study Planner")
+name = input("Enter your name:")
+print("Hello",name)
+task = input("What do you want to study today? ")
+print("Today's Study Goal:",task)
